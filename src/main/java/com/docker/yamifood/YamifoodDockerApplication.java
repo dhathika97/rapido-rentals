@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class YamifoodDockerApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Spring Boot App");
+		System.out.println("Spring Boot Application");
 		SpringApplication.run(YamifoodDockerApplication.class, args);
 	}
 
